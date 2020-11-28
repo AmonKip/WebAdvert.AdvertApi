@@ -1,0 +1,8 @@
+/home/kip/projects/WebAdert.AdertApi/AdvertApi.Models/bin/Debug/netstandard2.0/AdvertApi.Models.deps.json
+/home/kip/projects/WebAdert.AdertApi/AdvertApi.Models/bin/Debug/netstandard2.0/AdvertApi.Models.dll
+/home/kip/projects/WebAdert.AdertApi/AdvertApi.Models/bin/Debug/netstandard2.0/AdvertApi.Models.pdb
+/home/kip/projects/WebAdert.AdertApi/AdvertApi.Models/obj/Debug/netstandard2.0/AdvertApi.Models.csprojAssemblyReference.cache
+/home/kip/projects/WebAdert.AdertApi/AdvertApi.Models/obj/Debug/netstandard2.0/AdvertApi.Models.AssemblyInfoInputs.cache
+/home/kip/projects/WebAdert.AdertApi/AdvertApi.Models/obj/Debug/netstandard2.0/AdvertApi.Models.AssemblyInfo.cs
+/home/kip/projects/WebAdert.AdertApi/AdvertApi.Models/obj/Debug/netstandard2.0/AdvertApi.Models.dll
+/home/kip/projects/WebAdert.AdertApi/AdvertApi.Models/obj/Debug/netstandard2.0/AdvertApi.Models.pdb
